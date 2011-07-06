@@ -1,0 +1,17 @@
+data/.hgignore.i
+data/LICENSE.i
+data/LICENSE-MPL-Toke.i
+data/Makefile.i
+data/README.i
+data/c_src/toke.c.i
+data/c_src/toke.h.i
+data/check-deps.sh.i
+data/ebin/toke.app.i
+data/ebin/toke.app.in.i
+data/ebin/toke_app.in.i
+data/package.mk.i
+data/src/toke.c.i
+data/src/toke.h.i
+data/src/toke_drv.erl.i
+data/src/toke_test.erl.i
+data/test/src/test_toke.erl.i

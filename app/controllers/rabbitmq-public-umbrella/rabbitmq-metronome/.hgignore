@@ -1,0 +1,7 @@
+syntax: regexp
+
+^build/
+^dist/
+.*\.beam
+^cover/
+^tmp/

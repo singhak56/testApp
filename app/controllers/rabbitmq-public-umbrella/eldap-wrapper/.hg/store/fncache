@@ -1,0 +1,4 @@
+data/.hgignore.i
+data/Makefile.i
+data/eldap-appify.patch.i
+data/package.mk.i

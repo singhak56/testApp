@@ -1,0 +1,16 @@
+data/.hgignore.i
+data/.hgtags.i
+data/Makefile.i
+data/ebin/rabbit_management_agent.app.i
+data/ebin/rabbit_management_agent.app.in.i
+data/ebin/rabbit_management_agent_app.in.i
+data/ebin/rabbit_management_cluster_remote.app.in.i
+data/ebin/rabbitmq_management_agent.app.i
+data/ebin/rabbitmq_management_agent.app.in.i
+data/package.mk.i
+data/src/rabbit_mgmt_agent_app.erl.i
+data/src/rabbit_mgmt_agent_sup.erl.i
+data/src/rabbit_mgmt_cluster_remote_app.erl.i
+data/src/rabbit_mgmt_cluster_remote_sup.erl.i
+data/src/rabbit_mgmt_db_handler.erl.i
+data/src/rabbit_mgmt_external_stats.erl.i

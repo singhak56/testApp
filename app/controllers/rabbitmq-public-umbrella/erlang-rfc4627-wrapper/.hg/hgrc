@@ -1,0 +1,2 @@
+[paths]
+default = http://hg.rabbitmq.com/erlang-rfc4627-wrapper

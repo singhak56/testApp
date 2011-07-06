@@ -1,0 +1,8 @@
+{application, rabbitmq_metronome,
+ [{description, "Embedded Rabbit Metronome"},
+  {vsn, "0.01"},
+  {modules, []},
+  {registered, []},
+  {mod, {rabbit_metronome, []}},
+  {env, []},
+  {applications, [kernel, stdlib, rabbit, amqp_client]}]}.

@@ -1,0 +1,15 @@
+data/.hgignore.i
+data/Makefile.i
+data/c_src/hstcp.c.i
+data/c_src/hstcp.h.i
+data/c_src/spb.c.i
+data/c_src/spb.h.i
+data/ebin/hstcp.app.i
+data/ebin/hstcp.app.in.i
+data/ebin/spb.app.i
+data/package.mk.i
+data/src/hstcp_drv.erl.i
+data/src/spb_drv.erl.i
+data/test/src/recv_test_gen_tcp.erl.i
+data/test/src/recv_test_hstcp.erl.i
+data/test/src/test_hstcp.erl.i

@@ -1,0 +1,12 @@
+data/.hgignore.i
+data/.hgtags.i
+data/Makefile.i
+data/README.i
+data/ebin/rabbit_auth_mechanism_ssl.app.i
+data/ebin/rabbit_auth_mechanism_ssl.app.in.i
+data/ebin/rabbit_auth_mechanism_ssl_app.in.i
+data/ebin/rabbitmq_auth_mechanism_ssl.app.i
+data/ebin/rabbitmq_auth_mechanism_ssl.app.in.i
+data/package.mk.i
+data/src/rabbit_auth_mechanism_ssl.erl.i
+data/src/rabbit_auth_mechanism_ssl_app.erl.i
